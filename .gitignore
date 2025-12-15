@@ -1,0 +1,13 @@
+# Private key (NEVER upload)
+keys/private.pem
+
+# Generated encrypted files
+encrypted.bin
+encrypted_key.bin
+decrypted.txt
+
+# Python cache
+__pycache__/
+
+# Virtual environment
+.venv/
